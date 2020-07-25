@@ -1,2 +1,2 @@
 # Luggage-Tracking-System-in-Airports
-Tracking of Luggage using RFID Tag
+The most common loopholes experienced in aviation industry for luggage handling are mislaid baggage, lost baggage and damage to the belongings. In order to overcome these problems, a system is designed which tracks the luggage boarding, deboarding and an Android application to know the exact GPS location of luggage on user demand. The system designed ensures security for baggage since the owner can get the position of his/her luggage during the journey. The RFID tag is attached to the luggage of each passenger. RFID reader to interrogate tag via RF communication. Each tag has unique ID which is stored in database maintained by aviation authority along with the passenger details.
